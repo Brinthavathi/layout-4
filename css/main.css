@@ -1,0 +1,118 @@
+.container
+{
+	display:flex;
+	border:2px solid;
+	background-color:white;
+	margin:2px;
+	height:1000px;
+}
+.item
+{
+	display:flex;
+	 background-color:gray;
+	 padding:20px;
+	 height:890px;
+	  margin-top:70px;
+	  width:97%;
+}
+
+.item1
+{
+	 background-color:black;
+	 padding:20px;
+	 height:10px;
+	  margin-top:15px;
+	  width:8%;
+}
+ 
+.item2
+{
+	 background-color:black;
+	 padding:20px;
+	 height:2px;
+	  margin-top:30px;
+	  margin-left:250px;
+	  width:8%;
+}
+ 
+.item3
+{
+	 background-color:black;
+	 padding:20px;
+	 height:2px;
+	  margin-top:30px;
+	  margin-left:100px;
+	  width:8%;
+}
+ 
+.item4
+{
+	 background-color:black;
+	 padding:20px;
+	 height:2px;
+	  margin-top:30px;
+	  margin-left:100px;
+	  width:8%;
+}
+
+.item5
+{
+	 background-color:black;
+	 padding:20px;
+	 height:2px;
+	  margin-top:30px;
+	  margin-left:100px;
+	  width:8%;
+}
+	.item6
+	{
+		background-color:black;
+		height:200px;
+		padding:50px;
+		margin-top:150px;
+		margin-left:-1270px;
+		width:91%;
+	}
+	
+.item7
+{
+	background-color:black;
+	margin-top:500px;
+	padding:20px;
+	margin-left:-1264px;
+	width:20%;
+	height:200px;
+}
+	.item8
+	{
+		background-color:black;
+		margin-top:500px;
+		padding:20px;
+		width:20%;
+		margin-left:200px;
+		height:200px;
+	}
+	
+	.item9
+	{
+		background-color:black;
+		margin-top:500px;
+		padding:20px;
+		width:20%;
+		margin-left:180px;
+		height:200px;
+	}
+	.item11
+	{
+		background-color:black;
+		margin-top:800px;
+		padding:20px;
+		margin-left:-1265px;
+		width:96%;
+	}
+.h4
+{
+	text-align:right;
+	color:black;
+}
+		
